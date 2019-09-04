@@ -5,35 +5,35 @@
       "productName": "Ürün 1",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/buyuk/tuborg-gold-malt-50cl-sise-d5b7.jpg",
       "productRate": 5,
-      "productCategories": 1
+      "productCategory": 1
     },
     {
       "id": 2,
       "productName": "Ürün 2",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/buyuk/tuborg-gold-malt-50cl-sise-d5b7.jpg",
       "productRate": 5,
-      "productCategories": 1
+      "productCategory": 1
     },
     {
       "id": 3,
       "productName": "Ürün 3",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/buyuk/tuborg-gold-malt-50cl-sise-d5b7.jpg",
       "productRate": 5,
-      "productCategories": 1
+      "productCategory": 1
     },
     {
       "id": 4,
       "productName": "Ürün 4",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/buyuk/tuborg-gold-malt-50cl-sise-d5b7.jpg",
       "productRate": 5,
-      "productCategories": 1
+      "productCategory": 1
     },
     {
       "id": 5,
       "productName": "Ürün 5",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/buyuk/tuborg-gold-malt-50cl-sise-d5b7.jpg",
       "productRate": 5,
-      "productCategories": 1
+      "productCategory": 1
     }
   ],
   "categories": [

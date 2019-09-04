@@ -35,41 +35,7 @@
       "productRate": 5,
       "productCategory": 1
     }
-      {
-      "id": 1,
-      "productName": "Ürün 5",
-      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/miller-50cl-sise-8785.jpg",
-      "productRate": 5,
-      "productCategory": 2
-    }
-      {
-      "id": 2,
-      "productName": "Ürün 5",
-      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/miller-50cl-sise-8785.jpg",
-      "productRate": 5,
-      "productCategory": 2
-    }
-      {
-      "id": 3,
-      "productName": "Ürün 5",
-      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/miller-50cl-sise-8785.jpg",
-      "productRate": 5,
-      "productCategory": 2
-    }
-      {
-      "id": 4,
-      "productName": "Ürün 5",
-      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/miller-50cl-sise-8785.jpg",
-      "productRate": 5,
-      "productCategory": 2
-    }
-      {
-      "id": 5,
-      "productName": "Ürün 5",
-      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/miller-50cl-sise-8785.jpg",
-      "productRate": 5,
-      "productCategory": 1
-    }
+    
   ],
   "categories": [
     {

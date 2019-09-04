@@ -69,6 +69,41 @@
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/vodka-cruiser-blueberry-275ml-acca.jpg",
       "productRate": 5,
       "productCategory": 2
+    },
+        {
+      "id": 1,
+      "productName": "Ürün 1",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/efe-gold-raki-35cl-9269.jpg",
+      "productRate": 5,
+      "productCategory": 3
+    },
+      {
+      "id": 2,
+      "productName": "Ürün 2",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/tekirdag-raki-35cl-d477.jpg",
+      "productRate": 5,
+      "productCategory": 3
+    },
+      {
+      "id": 3,
+      "productName": "Ürün 3",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/yeni-raki-35cl-8809.jpg",
+      "productRate": 5,
+      "productCategory": 3
+    },
+      {
+      "id": 4,
+      "productName": "Ürün 4",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/yeni-raki-ala-35cl-f4fa.jpg",
+      "productRate": 5,
+      "productCategory": 3
+    },
+      {
+      "id": 5,
+      "productName": "Ürün 5",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/yeni-raki-ustalarin-karisimi-70cl-9e1a.jpg",
+      "productRate": 5,
+      "productCategory": 3
     }
     
   ],

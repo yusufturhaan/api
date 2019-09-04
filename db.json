@@ -4,7 +4,7 @@
       "id": 1,
       "productName": "Ürün 1",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/amsterdam-50cl-sise-55e2.jpg",
-      "productRate": 5,
+      "productRate": 4,
       "productCategory": 1
     },
     {
@@ -18,28 +18,28 @@
       "id": 3,
       "productName": "Ürün 3",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/bomonti-black-50cl-80d2.jpg",
-      "productRate": 5,
+      "productRate": 3,
       "productCategory": 1
     },
     {
       "id": 4,
       "productName": "Ürün 4",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/becks-50cl-sise-f243.jpg",
-      "productRate": 5,
+      "productRate": 3,
       "productCategory": 1
     },
     {
       "id": 5,
       "productName": "Ürün 5",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/miller-50cl-sise-8785.jpg",
-      "productRate": 5,
+      "productRate": 2,
       "productCategory": 1
     },
       {
       "id": 1,
       "productName": "Ürün 1",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/absolut-vodka-1lt-33fc.jpg",
-      "productRate": 5,
+      "productRate": 2,
       "productCategory": 2
     },
       {
@@ -53,35 +53,35 @@
       "id": 3,
       "productName": "Ürün 3",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/ctahoapt-vodka-standart-70cl-bc8b.jpg",
-      "productRate": 5,
+      "productRate": 4,
       "productCategory": 2
     },
       {
       "id": 4,
       "productName": "Ürün 4",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/smirnoff-raspberry-70cl-79b1.jpg",
-      "productRate": 5,
+      "productRate": 4,
       "productCategory": 2
     },
       {
       "id": 5,
       "productName": "Ürün 5",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/vodka-cruiser-blueberry-275ml-acca.jpg",
-      "productRate": 5,
+      "productRate": 3,
       "productCategory": 2
     },
         {
       "id": 1,
       "productName": "Ürün 1",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/efe-gold-raki-35cl-9269.jpg",
-      "productRate": 5,
+      "productRate": 1,
       "productCategory": 3
     },
       {
       "id": 2,
       "productName": "Ürün 2",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/tekirdag-raki-35cl-d477.jpg",
-      "productRate": 5,
+      "productRate": 3,
       "productCategory": 3
     },
       {
@@ -95,14 +95,14 @@
       "id": 4,
       "productName": "Ürün 4",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/yeni-raki-ala-35cl-f4fa.jpg",
-      "productRate": 5,
+      "productRate": 4,
       "productCategory": 3
     },
       {
       "id": 5,
       "productName": "Ürün 5",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/yeni-raki-ustalarin-karisimi-70cl-9e1a.jpg",
-      "productRate": 5,
+      "productRate": 3,
       "productCategory": 3
     }
     

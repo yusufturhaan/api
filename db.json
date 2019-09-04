@@ -5,14 +5,14 @@
       "productName": "Ürün 1",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/buyuk/tuborg-gold-malt-50cl-sise-d5b7.jpg",
       "productRate": 5,
-      "productCategory": 1
+      "productCategory": 2
     },
     {
       "id": 2,
       "productName": "Ürün 2",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/buyuk/tuborg-gold-malt-50cl-sise-d5b7.jpg",
       "productRate": 5,
-      "productCategory": 1
+      "productCategory": 3
     },
     {
       "id": 3,

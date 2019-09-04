@@ -40,6 +40,14 @@
     {
       "id": 1,
       "categoryName": "Beer"
+    },
+    {
+      "id": 2,
+      "categoryName": "Votka"
+    },
+    {
+      "id": 3,
+      "categoryName": "Rakı"
     }
   ]
 }

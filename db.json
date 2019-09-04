@@ -37,21 +37,21 @@
     },
       {
       "id": 1,
-      "productName": "Ürün 4",
+      "productName": "Ürün 1",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/absolut-vodka-1lt-33fc.jpg",
       "productRate": 5,
       "productCategory": 2
     },
       {
       "id": 2,
-      "productName": "Ürün 4",
+      "productName": "Ürün 2",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/finlandia-vodka-1lt-edd5.jpg",
       "productRate": 5,
       "productCategory": 2
     },
       {
       "id": 3,
-      "productName": "Ürün 4",
+      "productName": "Ürün 3",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/ctahoapt-vodka-standart-70cl-bc8b.jpg",
       "productRate": 5,
       "productCategory": 2
@@ -65,7 +65,7 @@
     },
       {
       "id": 5,
-      "productName": "Ürün 4",
+      "productName": "Ürün 5",
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/vodka-cruiser-blueberry-275ml-acca.jpg",
       "productRate": 5,
       "productCategory": 2

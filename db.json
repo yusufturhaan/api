@@ -34,6 +34,41 @@
       "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/miller-50cl-sise-8785.jpg",
       "productRate": 5,
       "productCategory": 1
+    },
+      {
+      "id": 4,
+      "productName": "Ürün 4",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/becks-50cl-sise-f243.jpg",
+      "productRate": 5,
+      "productCategory": 2
+    },
+      {
+      "id": 4,
+      "productName": "Ürün 4",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/becks-50cl-sise-f243.jpg",
+      "productRate": 5,
+      "productCategory": 2
+    },
+      {
+      "id": 4,
+      "productName": "Ürün 4",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/becks-50cl-sise-f243.jpg",
+      "productRate": 5,
+      "productCategory": 2
+    },
+      {
+      "id": 4,
+      "productName": "Ürün 4",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/becks-50cl-sise-f243.jpg",
+      "productRate": 5,
+      "productCategory": 2
+    },
+      {
+      "id": 4,
+      "productName": "Ürün 4",
+      "productImage": "https://www.kibrissanalmarket.com/Uploads/UrunResimleri/becks-50cl-sise-f243.jpg",
+      "productRate": 5,
+      "productCategory": 2
     }
     
   ],
